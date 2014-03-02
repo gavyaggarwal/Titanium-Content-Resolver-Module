@@ -1,4 +1,4 @@
-Titanium-Content-Resolver-Module
+Titanium Content Resolver Module
 ================================
 
 Allows Titanium Mobile (Android) Projects to Resolve content:// URLs
